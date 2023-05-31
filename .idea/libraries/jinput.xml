@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jinput">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BubbleShooterGame/lib/jar/jinput.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://josm.openstreetmap.de/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
