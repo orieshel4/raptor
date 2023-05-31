@@ -9,7 +9,6 @@ public class MongoWriter {
     MongoCollection col = db.getCollection("sampleBu");
 
 
-
     public void writeData(String playerName, int playerScore){
         Document sampleDoc = new Document("playerName", playerName).append("playerScore", playerScore);
         col.insertOne(sampleDoc);
